@@ -1,0 +1,379 @@
+﻿{
+  "category": [
+    {
+      "name": "Life",
+      "imageUrl": "assets/images/35.jpg",
+      "length": "11",
+      "initialQuote": "When the going gets tough, the tough get going.",
+      "quotes": [
+        {
+          "quote": "When the going gets tough, the tough get going."
+        },
+        {
+          "quote": "“Opportunities don’t happen, you create them.”"
+        },
+        {
+          "quote": "“To accomplish great things, we must not only act, but also dream, not only plan, but also believe.”"
+        },
+        {
+          "quote": "“Good things come to people who wait, but better things come to those who go out and get them.”"
+        },
+        {
+          "quote": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”"
+        },
+        {
+          "quote": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”"
+        },
+        {
+          "quote": "“To accomplish great things, we must not only act, but also dream, not only plan, but also believe.”"
+        },
+        {
+          "quote": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”"
+        },
+        {
+          "quote": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”"
+        },
+        {
+          "quote": "“To accomplish great things, we must not only act, but also dream, not only plan, but also believe.”"
+        },
+        {
+          "quote": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”"
+        }
+      ]
+    },
+    {
+      "name": "Yourself",
+      "imageUrl": "assets/images/36.jpg",
+      "length": "7",
+      "initialQuote": "It is during our darkest moments that we must focus to see the light",
+      "quotes": [
+        {
+          "quote": "“It is during our darkest moments that we must focus to see the light.”"
+        },
+        {
+          "quote": "“The question isn’t who is going to let me; it’s who is going to stop me.”"
+        },
+        {
+          "quote": "“The question isn’t who is going to let me; it’s who is going to stop me.”"
+        },
+        {
+          "quote": "“Always make a total effort, even when the odds are against you.”"
+        },
+        {
+          "quote": "“Start where you are. Use what you have. Do what you can.”"
+        },
+        {
+          "quote": "“Start where you are. Use what you have. Do what you can.”"
+        },
+        {
+          "quote": "“Don’t wait for your feelings to change to take the action. Take the action and your feelings will change.”"
+        }
+      ]
+    },
+    {
+      "name": "Attitude",
+      "imageUrl": "assets/images/accuracy.jpg",
+      "length": "5",
+      "initialQuote": "Action may not always bring happiness; but there is no happiness without action.",
+      "quotes": [
+        {
+          "quote": "“Action may not always bring happiness; but there is no happiness without action.”"
+        },
+        {
+          "quote": "“The difference between a stumbling block and a stepping stone is how high you raise your foot.”"
+        },
+        {
+          "quote": "“As we look ahead into the next century, leaders will be those who empower others.”"
+        },
+        {
+          "quote": "“Success comes from having dreams that are bigger than your fears.”"
+        },
+        {
+          "quote": "“If you want to make a permanent change, stop focusing on the size of your problems and start focusing on the size of you!”\n"
+        }
+      ]
+    },
+    {
+      "name": "Goal",
+      "imageUrl": "assets/images/action.jpg",
+      "length": "11",
+      "initialQuote": "If you want to lift yourself up, lift up someone else..",
+      "quotes": [
+        {
+          "quote": "“If you want to lift yourself up, lift up someone else.”"
+        },
+        {
+          "quote": "“You measure the size of the accomplishment by the obstacles you had to overcome to reach your goals.”"
+        },
+        {
+          "quote": "“The distance between insanity and genius is measured only by success.”"
+        },
+        {
+          "quote": "“If you have everything under control, you’re not moving fast enough.”"
+        },
+        {
+          "quote": "“If you have everything under control, you’re not moving fast enough.”"
+        },
+        {
+          "quote": "“The distance between insanity and genius is measured only by success.”"
+        },
+        {
+          "quote": "“If you have everything under control, you’re not moving fast enough.”"
+        },
+        {
+          "quote": "“If you have everything under control, you’re not moving fast enough.”"
+        },
+        {
+          "quote": "“The distance between insanity and genius is measured only by success.”"
+        },
+        {
+          "quote": "“If you have everything under control, you’re not moving fast enough.”"
+        },
+        {
+          "quote": "“Never do tomorrow what you can do today. Procrastination is the thief of time.”"
+        }
+      ]
+    },
+    {
+      "name": "Action",
+      "imageUrl": "assets/images/appreciation.jpg",
+      "length": "5",
+      "initialQuote": "Don’t spend time beating on a wall, hoping to transform it into a door.",
+      "quotes": [
+        {
+          "quote": "“Don’t spend time beating on a wall, hoping to transform it into a door.”"
+        },
+        {
+          "quote": "“The road to success and the road to failure are almost exactly the same.”"
+        },
+        {
+          "quote": "“There are far, far better things ahead than any we leave behind.”"
+        },
+        {
+          "quote": "“Remember that not getting what you want is sometimes a wonderful stroke of luck.”"
+        },
+        {
+          "quote": "“Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no help at all.”\n"
+        }
+      ]
+    },
+    {
+      "name": "Confidence",
+      "imageUrl": "assets/images/attitude.jpg",
+      "length": "6",
+      "initialQuote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+      "quotes": [
+        {
+          "quote": "“A successful man is one who can lay a firm foundation with the bricks others have thrown at him.”"
+        },
+        {
+          "quote": "“A successful man is one who can lay a firm foundation with the bricks others have thrown at him.”"
+        },
+        {
+          "quote": "“The reason most people never reach their goals is that they don’t define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them.”\n"
+        },
+        {
+          "quote": "“We become what we think about most of the time, and that’s the strangest secret.”"
+        },
+        {
+          "quote": "“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”"
+        },
+        {
+          "quote": "“Perfection is boring. Getting better is where all the fun is.”"
+        }
+      ]
+    },
+    {
+      "name": "Hard work",
+      "imageUrl": "assets/images/business.jpg",
+      "length": "7",
+      "initialQuote": "There are two ways of spreading light. To be the candle, or the mirror that reflects it.",
+      "quotes": [
+        {
+          "quote": "“There are two ways of spreading light. To be the candle, or the mirror that reflects it.”"
+        },
+        {
+          "quote": "“There are two ways of spreading light. To be the candle, or the mirror that reflects it.”"
+        },
+        {
+          "quote": "“The future belongs to those who believe in the beauty of their dreams.”"
+        },
+        {
+          "quote": "“The future belongs to those who believe in the beauty of their dreams.”"
+        },
+        {
+          "quote": "“Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter.”"
+        },
+        {
+          "quote": "“There is no chance, no destiny, no fate, that can hinder or control the firm resolve of a determined soul.”"
+        },
+        {
+          "quote": "“Build your own dreams, or someone else will hire you to build theirs.”"
+        }
+      ]
+    },
+    {
+      "name": "Failure",
+      "imageUrl": "assets/images/change.jpg",
+      "length": "6",
+      "initialQuote": "Your focus determines your reality.",
+      "quotes": [
+        {
+          "quote": "“Your focus determines your reality.”"
+        },
+        {
+          "quote": "“Do not wait; the time will never be ‘just right.’ Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.”\n"
+        },
+        {
+          "quote": "“You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.”"
+        },
+        {
+          "quote": "“Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.”"
+        },
+        {
+          "quote": "“Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.”"
+        },
+        {
+          "quote": "“If you genuinely want something, don’t wait for it — teach yourself to be impatient.”"
+        }
+      ]
+    },
+    {
+      "name": "Positive",
+      "imageUrl": "assets/images/confidence.jpg",
+      "length": "9",
+      "initialQuote": "Never give up, for that is just the place and time that the tide will turn.",
+      "quotes": [
+        {
+          "quote": "“Never give up, for that is just the place and time that the tide will turn.”"
+        },
+        {
+          "quote": "“Never give up, for that is just the place and time that the tide will turn.”"
+        },
+        {
+          "quote": "“Why should you continue going after your dreams? Because seeing the look on the faces of the people who said you couldn’t… will be priceless.”\n"
+        },
+        {
+          "quote": "“If you don’t value your time, neither will others. Stop giving away your time and talents- start charging for it.”"
+        },
+        {
+          "quote": "“Life is not about finding yourself. Life is about creating yourself.”"
+        },
+        {
+          "quote": "“Life is not about finding yourself. Life is about creating yourself.”"
+        },
+        {
+          "quote": "“Life is not about finding yourself. Life is about creating yourself.”"
+        },
+        {
+          "quote": "“Life is not about finding yourself. Life is about creating yourself.”"
+        },
+        {
+          "quote": "“Every now and then it’s good to stop climbing and appreciate the view from right where you are.”"
+        }
+      ]
+    },
+    {
+      "name": "Stay Strong",
+      "imageUrl": "assets/images/encouraging.jpg",
+      "length": "10",
+      "initialQuote": "It’s not what you look at that matters, it’s what you see.",
+      "quotes": [
+        {
+          "quote": "“Never give in. Never, never, never, never—in nothing, great or small, large or petty—never give in, except to convictions of honour and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy.”\n"
+        },
+        {
+          "quote": "“It’s not what you look at that matters, it’s what you see.”"
+        },
+        {
+          "quote": "“It’s not what you look at that matters, it’s what you see.”"
+        },
+        {
+          "quote": "“It’s not what you look at that matters, it’s what you see.”"
+        },
+        {
+          "quote": "“It is better to fail in originality than to succeed in imitation.”"
+        },
+        {
+          "quote": "“Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.”"
+        },
+        {
+          "quote": "“Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.”"
+        },
+        {
+          "quote": "“Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.”"
+        },
+        {
+          "quote": "“Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.”"
+        },
+        {
+          "quote": "“There is only one motivation, and that is desire. No reasons or principle contain it or stand against it.”"
+        }
+      ]
+    },
+    {
+      "name": "Time",
+      "imageUrl": "assets/images/experience.jpg",
+      "length": "8",
+      "initialQuote": "The harder the battle, the sweeter the victory.",
+      "quotes": [
+        {
+          "quote": "“Make sure your worst enemy doesn’t live between your own two ears.”"
+        },
+        {
+          "quote": "“Make sure your worst enemy doesn’t live between your own two ears.”"
+        },
+        {
+          "quote": "“The harder the battle, the sweeter the victory.”"
+        },
+        {
+          "quote": "“The harder the battle, the sweeter the victory.”"
+        },
+        {
+          "quote": "“I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.”\n"
+        },
+        {
+          "quote": "“The work you do when you procrastinate is probably the work you should be doing for the rest of your life.”"
+        },
+        {
+          "quote": "“The work you do when you procrastinate is probably the work you should be doing for the rest of your life.”"
+        },
+        {
+          "quote": "“If you are not willing to risk the usual you will have to settle for the ordinary.”"
+        }
+      ]
+    },
+    {
+      "name": "Power",
+      "imageUrl": "assets/images/power.jpg",
+      "length": "8",
+      "initialQuote": "Sometimes you win, sometimes you learn.",
+      "quotes": [
+        {
+          "quote": "“Sometimes you win, sometimes you learn.”"
+        },
+        {
+          "quote": "“Sometimes you win, sometimes you learn.”"
+        },
+        {
+          "quote": "“There are two kinds of people in this world; those who want to get things done, and those who don’t want to make mistakes.”\n"
+        },
+        {
+          "quote": "“Don’t be afraid to give up the good to go for the great.”"
+        },
+        {
+          "quote": "“Don’t be afraid to give up the good to go for the great.”"
+        },
+        {
+          "quote": "“Don’t let what you cannot do interfere with what you can do.”"
+        },
+        {
+          "quote": "“Don’t let what you cannot do interfere with what you can do.”"
+        },
+        {
+          "quote": "“Things work out best for those who make the best of how things work out.”"
+        }
+      ]
+    }
+  ]
+}
